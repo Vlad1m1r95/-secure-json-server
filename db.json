@@ -1,330 +1,334 @@
 {
-  "employees":[
-     {
-        "id":"wz2Q",
-        "name":"Вероника Казакова",
-        "email":".47@mail.ru",
-        "position":"Разработчик",
-        "contractor":false,
-        "password":"Lkd480"
-     },
-     {
-        "id":"PqwM",
-        "name":"Валерий Одинцов",
-        "email":"_85@yandex.ru",
-        "position":"Дизайнер",
-        "contractor":false,
-        "password":"XIbSw2"
-     },
-     {
-        "id":"GU0y",
-        "name":"Антонида Капустина",
-        "email":"20@ya.ru",
-        "position":"Контент-Менеджер",
-        "contractor":false,
-        "password":"wj0Vok"
-     },
-     {
-        "id":"sRn7",
-        "name":"Виктория Шарапова",
-        "email":"97@yandex.ru",
-        "position":"Дизайнер",
-        "contractor":false,
-        "password":"bEA6ND"
-     },
-     {
-        "id":"tFYd",
-        "name":"Максим Дроздов",
-        "email":"_65@mail.ru",
-        "position":"Дизайнер",
-        "contractor":false,
-        "password":"E9BAHe"
-     },
-     {
-        "id":"a7iU",
-        "name":"Лидия Моисеева",
-        "email":"_6@yandex.ru",
-        "position":"Редактор",
-        "contractor":false,
-        "password":"1jkK15"
-     },
-     {
-        "id":"1SuW",
-        "name":"Игорь Мамонтов",
-        "email":"_@ya.ru",
-        "position":"Дизайнер",
-        "contractor":true,
-        "password":"kiX5jR"
-     },
-     {
-        "id":"9UZ2",
-        "name":"Алевтина Щукина",
-        "email":"_@hotmail.com",
-        "position":"Дизайнер",
-        "contractor":false,
-        "password":"0Pb4OZ"
-     },
-     {
-        "id":"S2e9",
-        "name":"Станислав Воронцов",
-        "email":"71@mail.ru",
-        "position":"Редактор",
-        "contractor":false,
-        "password":"OY3GWl"
-     },
-     {
-        "id":"dLy5",
-        "name":"Никита Ильин",
-        "email":".24@mail.ru",
-        "position":"Контент-Менеджер",
-        "contractor":false,
-        "password":"4lRciD"
-     },
-     {
-        "id":"cKa_",
-        "name":"Алина Павлова",
-        "email":"86@yahoo.com",
-        "position":"Бухгалтер",
-        "contractor":true,
-        "password":"jY3Tov"
-     },
-     {
-        "id":"rwOc",
-        "name":"Ксения Крюкова",
-        "email":"20@ya.ru",
-        "position":"Разработчик",
-        "contractor":false,
-        "password":"gf5hEP"
-     },
-     {
-        "id":"HTwi",
-        "name":"Анфиса Трофимова",
-        "email":".83@yandex.ru",
-        "position":"Контент-Менеджер",
-        "contractor":true,
-        "password":"LFSTwZ"
-     },
-     {
-        "id":"pXC-",
-        "name":"Клавдия Бурова",
-        "email":"_@mail.ru",
-        "position":"Разработчик",
-        "contractor":true,
-        "password":"pRpow1"
-     },
-     {
-        "id":"CINY",
-        "name":"Макар Устинов",
-        "email":"_@gmail.com",
-        "position":"Контент-Менеджер",
-        "contractor":false,
-        "password":"e6KYES"
-     },
-     {
-        "id":"93B2",
-        "name":"Ирина Яковлева",
-        "email":"_73@gmail.com",
-        "position":"Бухгалтер",
-        "contractor":true,
-        "password":"HbUzxY"
-     },
-     {
-        "id":"Ih3w",
-        "name":"Матвей Соловьев",
-        "email":".@mail.ru",
-        "position":"Дизайнер",
-        "contractor":true,
-        "password":"X3Qcqe"
-     },
-     {
-        "id":"T9en",
-        "name":"Маргарита Авдеева",
-        "email":".17@yahoo.com",
-        "position":"Бухгалтер",
-        "contractor":false,
-        "password":"NfPt9L"
-     },
-     {
-        "id":"-n3E",
-        "name":"Светлана Кононова",
-        "email":"_@hotmail.com",
-        "position":"Контент-Менеджер",
-        "contractor":true,
-        "password":"JoKVFL"
-     },
-     {
-        "id":"A0kA",
-        "name":"Егор Пономарев",
-        "email":"_@gmail.com",
-        "position":"Редактор",
-        "contractor":false,
-        "password":"VR7Fl-"
-     },
-     {
-        "id":"6r8v",
-        "name":"Егор Захаров",
-        "email":".@hotmail.com",
-        "position":"Контент-Менеджер",
-        "contractor":false,
-        "password":"Q12MmW"
-     }
+  "employees": [
+    {
+      "id": "admin",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "position": "Контент-Менеджер",
+      "contractor": true,
+      "password": "admin"
+    },
+    {
+      "id": "m0hG",
+      "name": "Николай Воробьев",
+      "email": "_@yahoo.com",
+      "position": "Контент-Менеджер",
+      "contractor": true,
+      "password": "UkjDIT"
+    },
+    {
+      "id": "m_GR",
+      "name": "Тамара Ершова",
+      "email": "_@mail.ru",
+      "position": "Редактор",
+      "contractor": true,
+      "password": "5kNXrg"
+    },
+    {
+      "id": "QAGw",
+      "name": "Александр Веселов",
+      "email": "_1@mail.ru",
+      "position": "Бухгалтер",
+      "contractor": false,
+      "password": "bYnW1P"
+    },
+    {
+      "id": "JfzY",
+      "name": "Ангелина Соколова",
+      "email": "29@yahoo.com",
+      "position": "Контент-Менеджер",
+      "contractor": true,
+      "password": "e_sQXv"
+    },
+    {
+      "id": "dlSt",
+      "name": "Степан Дьячков",
+      "email": ".@yahoo.com",
+      "position": "Контент-Менеджер",
+      "contractor": true,
+      "password": "RVapNG"
+    },
+    {
+      "id": "8yDO",
+      "name": "Антонида Дорофеева",
+      "email": "2@mail.ru",
+      "position": "Редактор",
+      "contractor": false,
+      "password": "b-WC-z"
+    },
+    {
+      "id": "GPSq",
+      "name": "Никита Куликов",
+      "email": "_@ya.ru",
+      "position": "Контент-Менеджер",
+      "contractor": false,
+      "password": "hZf7JV"
+    },
+    {
+      "id": "lRgV",
+      "name": "Арсений Стрелков",
+      "email": ".@ya.ru",
+      "position": "Дизайнер",
+      "contractor": true,
+      "password": "3iHUuS"
+    },
+    {
+      "id": "iQKl",
+      "name": "Нина Горбачева",
+      "email": "_@ya.ru",
+      "position": "Дизайнер",
+      "contractor": true,
+      "password": "aptDsr"
+    },
+    {
+      "id": "_2vP",
+      "name": "Алексей Лобанов",
+      "email": "26@yahoo.com",
+      "position": "Бухгалтер",
+      "contractor": true,
+      "password": "VzA3No"
+    },
+    {
+      "id": "CDjA",
+      "name": "Виктория Кононова",
+      "email": "58@yahoo.com",
+      "position": "Дизайнер",
+      "contractor": false,
+      "password": "IwyarH"
+    },
+    {
+      "id": "j6fO",
+      "name": "Клавдия Устинова",
+      "email": "53@mail.ru",
+      "position": "Дизайнер",
+      "contractor": true,
+      "password": "Cv5nsA"
+    },
+    {
+      "id": "-0Ia",
+      "name": "Евгений Зуев",
+      "email": ".@yahoo.com",
+      "position": "Разработчик",
+      "contractor": true,
+      "password": "p4eeYn"
+    },
+    {
+      "id": "dzUX",
+      "name": "Любовь Полякова",
+      "email": "27@hotmail.com",
+      "position": "Дизайнер",
+      "contractor": true,
+      "password": "wQpAlb"
+    },
+    {
+      "id": "NZLU",
+      "name": "Маргарита Нестерова",
+      "email": "89@gmail.com",
+      "position": "Редактор",
+      "contractor": true,
+      "password": "mRVc64"
+    },
+    {
+      "id": "QuLG",
+      "name": "Людмила Карпова",
+      "email": "_@yahoo.com",
+      "position": "Разработчик",
+      "contractor": true,
+      "password": "mxeqsf"
+    },
+    {
+      "id": "L7b4",
+      "name": "Евгения Игнатьева",
+      "email": ".@mail.ru",
+      "position": "Бухгалтер",
+      "contractor": true,
+      "password": "olxo4A"
+    },
+    {
+      "id": "53kA",
+      "name": "Анастасия Константинова",
+      "email": "47@ya.ru",
+      "position": "Контент-Менеджер",
+      "contractor": false,
+      "password": "AnGDWF"
+    },
+    {
+      "id": "rc9I",
+      "name": "Макар Рыбаков",
+      "email": "30@mail.ru",
+      "position": "Редактор",
+      "contractor": false,
+      "password": "q0A-Uf"
+    },
+    {
+      "name": "Соломина Елена Леонидовна",
+      "position": "Администратор",
+      "contractor": "Контрактор",
+      "key": "jL4",
+      "id": "jL4"
+    }
   ],
-  "statistics":[
-     {
-        "id":1,
-        "year":2020,
-        "month":"Январь",
-        "ordersComplite":494,
-        "ordersFallen":218,
-        "visitors":2806,
-        "goods":52,
-        "conversion":27,
-        "totalСostOfGoods":945,
-        "objectiveOrdersComplite":216,
-        "objectiveConversion":5
-     },
-     {
-        "id":2,
-        "year":2020,
-        "month":"Февраль",
-        "ordersComplite":432,
-        "ordersFallen":112,
-        "visitors":3664,
-        "goods":66,
-        "conversion":29,
-        "totalСostOfGoods":1164,
-        "objectiveOrdersComplite":312,
-        "objectiveConversion":30
-     },
-     {
-        "id":3,
-        "year":2020,
-        "month":"Март",
-        "ordersComplite":447,
-        "ordersFallen":168,
-        "visitors":4765,
-        "goods":82,
-        "conversion":14,
-        "totalСostOfGoods":1636,
-        "objectiveOrdersComplite":401,
-        "objectiveConversion":32
-     },
-     {
-        "id":4,
-        "year":2020,
-        "month":"Апрель",
-        "ordersComplite":149,
-        "ordersFallen":160,
-        "visitors":4870,
-        "goods":60,
-        "conversion":22,
-        "totalСostOfGoods":1291,
-        "objectiveOrdersComplite":429,
-        "objectiveConversion":31
-     },
-     {
-        "id":5,
-        "year":2020,
-        "month":"Май",
-        "ordersComplite":176,
-        "ordersFallen":284,
-        "visitors":4720,
-        "goods":92,
-        "conversion":10,
-        "totalСostOfGoods":1318,
-        "objectiveOrdersComplite":391,
-        "objectiveConversion":14
-     },
-     {
-        "id":6,
-        "year":2020,
-        "month":"Июнь",
-        "ordersComplite":197,
-        "ordersFallen":141,
-        "visitors":1657,
-        "goods":98,
-        "conversion":6,
-        "totalСostOfGoods":1851,
-        "objectiveOrdersComplite":157,
-        "objectiveConversion":35
-     },
-     {
-        "id":7,
-        "year":2020,
-        "month":"Июль",
-        "ordersComplite":208,
-        "ordersFallen":358,
-        "visitors":1521,
-        "goods":94,
-        "conversion":15,
-        "totalСostOfGoods":1581,
-        "objectiveOrdersComplite":278,
-        "objectiveConversion":16
-     },
-     {
-        "id":8,
-        "year":2020,
-        "month":"Август",
-        "ordersComplite":331,
-        "ordersFallen":315,
-        "visitors":4259,
-        "goods":65,
-        "conversion":25,
-        "totalСostOfGoods":1562,
-        "objectiveOrdersComplite":429,
-        "objectiveConversion":38
-     },
-     {
-        "id":9,
-        "year":2020,
-        "month":"Сентябрь",
-        "ordersComplite":282,
-        "ordersFallen":140,
-        "visitors":4856,
-        "goods":48,
-        "conversion":23,
-        "totalСostOfGoods":1266,
-        "objectiveOrdersComplite":433,
-        "objectiveConversion":37
-     },
-     {
-        "id":10,
-        "year":2020,
-        "month":"Октябрь",
-        "ordersComplite":219,
-        "ordersFallen":128,
-        "visitors":4850,
-        "goods":62,
-        "conversion":33,
-        "totalСostOfGoods":1567,
-        "objectiveOrdersComplite":295,
-        "objectiveConversion":32
-     },
-     {
-        "id":11,
-        "year":2020,
-        "month":"Ноябрь",
-        "ordersComplite":404,
-        "ordersFallen":423,
-        "visitors":1664,
-        "goods":70,
-        "conversion":6,
-        "totalСostOfGoods":1048,
-        "objectiveOrdersComplite":215,
-        "objectiveConversion":40
-     },
-     {
-        "id":12,
-        "year":2020,
-        "month":"Декабрь",
-        "ordersComplite":393,
-        "ordersFallen":220,
-        "visitors":1582,
-        "goods":73,
-        "conversion":13,
-        "totalСostOfGoods":881,
-        "objectiveOrdersComplite":220,
-        "objectiveConversion":30
-     }
+  "statistics": [
+    {
+      "id": 1,
+      "year": 2020,
+      "month": "Январь",
+      "ordersComplite": 384,
+      "ordersFallen": 389,
+      "visitors": 3740,
+      "goods": 84,
+      "conversion": 14,
+      "totalСostOfGoods": 1295,
+      "objectiveOrdersComplite": 352,
+      "objectiveConversion": 18
+    },
+    {
+      "id": 2,
+      "year": 2020,
+      "month": "Февраль",
+      "ordersComplite": 381,
+      "ordersFallen": 345,
+      "visitors": 4929,
+      "goods": 41,
+      "conversion": 7,
+      "totalСostOfGoods": 1334,
+      "objectiveOrdersComplite": 470,
+      "objectiveConversion": 28
+    },
+    {
+      "id": 3,
+      "year": 2020,
+      "month": "Март",
+      "ordersComplite": 448,
+      "ordersFallen": 252,
+      "visitors": 1365,
+      "goods": 69,
+      "conversion": 10,
+      "totalСostOfGoods": 1331,
+      "objectiveOrdersComplite": 305,
+      "objectiveConversion": 25
+    },
+    {
+      "id": 4,
+      "year": 2020,
+      "month": "Апрель",
+      "ordersComplite": 497,
+      "ordersFallen": 468,
+      "visitors": 1913,
+      "goods": 73,
+      "conversion": 33,
+      "totalСostOfGoods": 814,
+      "objectiveOrdersComplite": 220,
+      "objectiveConversion": 31
+    },
+    {
+      "id": 5,
+      "year": 2020,
+      "month": "Май",
+      "ordersComplite": 165,
+      "ordersFallen": 114,
+      "visitors": 3706,
+      "goods": 55,
+      "conversion": 7,
+      "totalСostOfGoods": 1691,
+      "objectiveOrdersComplite": 234,
+      "objectiveConversion": 10
+    },
+    {
+      "id": 6,
+      "year": 2020,
+      "month": "Июнь",
+      "ordersComplite": 463,
+      "ordersFallen": 422,
+      "visitors": 4978,
+      "goods": 61,
+      "conversion": 22,
+      "totalСostOfGoods": 1513,
+      "objectiveOrdersComplite": 419,
+      "objectiveConversion": 5
+    },
+    {
+      "id": 7,
+      "year": 2020,
+      "month": "Июль",
+      "ordersComplite": 148,
+      "ordersFallen": 486,
+      "visitors": 4327,
+      "goods": 68,
+      "conversion": 23,
+      "totalСostOfGoods": 1308,
+      "objectiveOrdersComplite": 403,
+      "objectiveConversion": 10
+    },
+    {
+      "id": 8,
+      "year": 2020,
+      "month": "Август",
+      "ordersComplite": 349,
+      "ordersFallen": 455,
+      "visitors": 3403,
+      "goods": 43,
+      "conversion": 29,
+      "totalСostOfGoods": 1882,
+      "objectiveOrdersComplite": 257,
+      "objectiveConversion": 30
+    },
+    {
+      "id": 9,
+      "year": 2020,
+      "month": "Сентябрь",
+      "ordersComplite": 146,
+      "ordersFallen": 470,
+      "visitors": 1889,
+      "goods": 41,
+      "conversion": 21,
+      "totalСostOfGoods": 997,
+      "objectiveOrdersComplite": 416,
+      "objectiveConversion": 12
+    },
+    {
+      "id": 10,
+      "year": 2020,
+      "month": "Октябрь",
+      "ordersComplite": 384,
+      "ordersFallen": 450,
+      "visitors": 2192,
+      "goods": 98,
+      "conversion": 34,
+      "totalСostOfGoods": 1343,
+      "objectiveOrdersComplite": 276,
+      "objectiveConversion": 44
+    },
+    {
+      "id": 11,
+      "year": 2020,
+      "month": "Ноябрь",
+      "ordersComplite": 200,
+      "ordersFallen": 435,
+      "visitors": 2643,
+      "goods": 87,
+      "conversion": 33,
+      "totalСostOfGoods": 1781,
+      "objectiveOrdersComplite": 126,
+      "objectiveConversion": 30
+    },
+    {
+      "id": 12,
+      "year": 2020,
+      "month": "Декабрь",
+      "ordersComplite": 103,
+      "ordersFallen": 266,
+      "visitors": 1791,
+      "goods": 87,
+      "conversion": 15,
+      "totalСostOfGoods": 1739,
+      "objectiveOrdersComplite": 357,
+      "objectiveConversion": 29
+    }
+  ],
+  "images": [
+    {
+      "id": 1
+    }
   ]
 }
